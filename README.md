@@ -1,1 +1,1 @@
-# js-memory-card-game
+# Javascript Memory Card Game
